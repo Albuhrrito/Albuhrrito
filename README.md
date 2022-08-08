@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Albuhrrito
-- 💞️ I’m interested in game development and learning computer science.
+- 💞️ I’m interested in web development and learning computer science.
 - 🌱 I’m currently learning computer science in C++, Java, Python.
-- 👀 I’m looking to collaborate on game design and creating a fun, small game with others. Check out my work on albruh.tech
+- 👀 I’m looking to collaborate on web dev and creating projects and applications with others. Check out my work on albruh.tech!
 - 📫 How to reach me: albertm.youssef@gmail.com || (626) 698-9519
